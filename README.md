@@ -16,8 +16,11 @@
 ### 📚 Currently Learning
 
 - 🔹 Python
+- 🔹 Java
+- 🔹 Spring Boot
+- 🔹 REACT
 - 🔹 SQL (PostgreSQL / MySQL)
-- 🔹 HTML + CSS + JavaScript (Vanilla)
+- 🔹 HTML + CSS + JavaScript (Frontend)
 ---
 
 ### 🛠️ What I'm Working On
