@@ -46,7 +46,7 @@
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?logo=tensorflow&logoColor=white)
 ![Game Dev](https://img.shields.io/badge/Game_Development-FF69B4?logo=unity&logoColor=white)
