@@ -37,7 +37,7 @@
 - 📧 Email: `ghostcode541@gmail.com`
 - 📸 Instagram: [`@ghostcode264`](https://instagram.com/ghostcode264)
 - 💼 LinkedIn: [João Vitor de Oliveira Lima](https://www.linkedin.com/in/joão-vitor-de-oliveira-lima-4127ba2b6)
-- 📄 Résumé (PDF): [tinyurl.com/curriculojoao](https://tinyurl.com/curriculojoao)
+- 📄 Résumé (Site): [Portfolio_Vercel](https://portifolio-six-xi-68.vercel.app/)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JOHNcoding9&layout=compact&theme=tokyonight)
