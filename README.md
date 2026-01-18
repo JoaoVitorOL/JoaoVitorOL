@@ -40,7 +40,8 @@
 - 📄 Résumé (Site): [Portfolio_Vercel](https://portifolio-six-xi-68.vercel.app/)
 
 
-![Top Language](https://img.shields.io/github/languages/top/JoaoVitorOL/JoaoVitorOL)
+![Top Language](https://img.shields.io/github/languages/top/JoaoVitorOL?style=flat-square)
+
 
 
 
