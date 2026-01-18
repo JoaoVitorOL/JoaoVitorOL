@@ -44,8 +44,6 @@
 
 
 
-
-
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
