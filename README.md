@@ -28,6 +28,7 @@
 - Creating personal projects 
 - Exploring hands-on projects in:
   - Game development (Construct 2 and C#)
+  - Backend (using SpringBoot)
   - Cybersecurity (e.g. password testing, brute force logic)
   - Machine learning (e.g. small classification models)
 
