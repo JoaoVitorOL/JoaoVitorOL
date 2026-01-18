@@ -40,7 +40,6 @@
 - 📄 Résumé (Site): [Portfolio_Vercel](https://portifolio-six-xi-68.vercel.app/)
 
 
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JOHNcoding9&layout=compact&theme=tokyonight)
 
 
