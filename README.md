@@ -40,7 +40,8 @@
 - 📄 Résumé (Site): [Portfolio_Vercel](https://portifolio-six-xi-68.vercel.app/)
 
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JoaoVitorOL&layout=compact&theme=tokyonight)
+![Top Language](https://img.shields.io/github/languages/top/JoaoVitorOL/JoaoVitorOL)
+
 
 
 
