@@ -7,7 +7,7 @@
 ### 💡 Interests
 
 - 🎮 Game development
-- 💻 Coding & full-stack web projects
+- 💻 Coding & full-stack web | Backend projects
 - 🔐 Cybersecurity & hacking fundamentals
 - 🤖 Machine Learning & Artificial Intelligence
 
