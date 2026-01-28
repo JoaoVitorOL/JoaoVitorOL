@@ -38,7 +38,7 @@
 
 - 📧 Email: `joaovitorolcontrateme@gmail.com`
 - 💼 LinkedIn: [João Vitor de Oliveira Lima](https://www.linkedin.com/in/joão-vitor-de-oliveira-lima-4127ba2b6)
-- 📄 Site : [Vercel site](https://portifolio-six-xi-68.vercel.app/)
+- 💻 Site : [Vercel site](https://portifolio-six-xi-68.vercel.app/)
 - 📄 Résumé : [Currículo](https://www.canva.com/design/DAG_tmUwnXI/BB37a7wtmsvVnN6SyX8QJg/view?utm_content=DAG_tmUwnXI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
