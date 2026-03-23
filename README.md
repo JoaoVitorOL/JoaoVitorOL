@@ -17,8 +17,11 @@
 
 - 🔹 Python
 - 🔹 Java
+- 🔹 C#
+- 🔹 Kotlin
 - 🔹 Spring Boot
 - 🔹 REACT
+- 🔹 Unity
 - 🔹 SQL (PostgreSQL / MySQL)
 - 🔹 HTML + CSS + JavaScript (Frontend)
 ---
