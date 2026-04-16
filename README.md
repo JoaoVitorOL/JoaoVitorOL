@@ -23,7 +23,7 @@
 - 🔹 Android Studio
 - 🔹 Unity
 - 🔹 REACT
-- 🔹 SQL (PostgreSQL / MySQL)
+- 🔹 SQL (PostgreSQL / Dbeaver)
 - 🔹 HTML + CSS + JavaScript (Frontend)
 ---
 
