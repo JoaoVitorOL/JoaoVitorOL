@@ -20,8 +20,9 @@
 - 🔹 C#
 - 🔹 Kotlin
 - 🔹 Spring Boot
-- 🔹 REACT
+- 🔹 Android Studio
 - 🔹 Unity
+- 🔹 REACT
 - 🔹 SQL (PostgreSQL / MySQL)
 - 🔹 HTML + CSS + JavaScript (Frontend)
 ---
